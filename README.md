@@ -206,4 +206,4 @@ These high correlation results indicates that there is a correlation between the
 ### Week 3:
 - Tweaking the website to best display the Tableau data. HTML and CSS files were edited to better display the API from Tableau.
 ![Screenshot (Webpage)](./Resources/screenshot.png)
-- We have finished the website with Tableau data: https://ssheggrud.github.io/Mod_20_Project/index.html
+- We have finished the website with Tableau data: https://pooja-boot-git.github.io/Mayor_Elections/index.html
