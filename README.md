@@ -32,7 +32,7 @@ Tools used:
 We have built our visualizations using Tableau.  Also, we have built our website using the Tableau JavaScript API, and have hosted it on Github.
 
 Here is the link to our Dashboard. It is hosted on our github account:
-https://ssheggrud.github.io/Mod_20_Project/index.html
+https://pooja-boot-git.github.io/Mayor_Elections/index.html
 
 Refer to the below link to access our tableau dashboard. This dashboard is hosted within our website created using TableauJavascriptAPI:
 
